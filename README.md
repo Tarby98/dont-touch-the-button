@@ -59,7 +59,7 @@ You can view the live version of the project here:
 
 **Jack Tarbuck**  
 Aspiring Full Stack Developer  
-- 💼 [Portfolio](https://github.com/Tarby98)  
+- 💼 [Portfolio](https://tarby98.github.io/my-portfolio/)
 - 📧 [Email](mailto:jacktarbuck@hotmail.co.uk)  
 - 🖥️ [GitHub](https://github.com/Tarby98)
 
